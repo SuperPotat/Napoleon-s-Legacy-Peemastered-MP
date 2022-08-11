@@ -15,9 +15,8 @@ open the NLR zip file,
 copy the Napoleon's Legacy Remake folder and Napoleon's Legacy Remake .mod file to the /mod folder in your game files.
 
 
-###The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me.###				
-##This submod doesn't change the checksum									      ##
-#If you don't want to keep having to click on the submod in the launcher, you can just copy the files of a submod into the main mod folder. 	      #
+The NLR Low Res submod changes the terrain textures to be smaller, so that they have less an impact on performance, while still looking... passable, to me. This submod doesn't change the checksum.
+If you don't want to keep having to click on the submod in the launcher, you can just copy the files of it into the main mod folder.
 
 
 Credits to: 
