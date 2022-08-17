@@ -18,7 +18,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "Canada (NOT the United Kingdom)"
+		name = "Canada"
 		CAN = {
 			country_event = { id=19300 days=0 }
 		}
@@ -50,31 +50,19 @@ country_event = {
 		}
 	}
 	
-	option = {
-		name = "Columbia"
-		CLM = {
-			country_event = { id=19300 days=0 }
-		}
-		ai_chance = {
-			factor = 1
-
-		}
-	}
-	
-	option = {
-		name = "Brazil"
-		BRZ = {
-			country_event = { id=19300 days=0 }
-		}
-		ai_chance = {
-			factor = 1
-
-		}
-	}
-
 	option = { 
 		name = "Peru"
 		PEU = { 
+			country_event = { id=19300 days = 0 } 
+		}
+		ai_chance = {
+			factor = 1
+
+		}
+	}	
+	option = { 
+		name = "Peru-Bolivia"
+		PBC = { 
 			country_event = { id=19300 days = 0 } 
 		}
 		ai_chance = {
@@ -106,7 +94,7 @@ country_event = {
 	}
 
 	option = {
-		name = "United Kingdom of Portugal and Brazil"
+		name = "Portugal-Brazil"
 		UPB = { 
 			country_event = { id=19300 days=0 } 
 		} 

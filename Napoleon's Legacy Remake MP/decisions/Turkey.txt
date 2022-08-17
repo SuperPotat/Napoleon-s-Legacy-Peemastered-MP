@@ -155,12 +155,12 @@ political_decisions = {
 			NOT = { capital = 876 }
 			NOT = { has_country_flag = we_have_retreated_to_anatolia }
 			NOT = { has_country_flag = double_down_in_the_balkans }
-			war = no
 		}
 
 		allow = {
 			owns = 876
 			nationalism_n_imperialism = 1
+			war = no
 		}
 
 		effect = {
@@ -222,12 +222,12 @@ political_decisions = {
 			NOT = { capital = 876 }
 			NOT = { has_country_flag = we_have_retreated_to_anatolia }
 			NOT = { has_country_flag = double_down_in_the_balkans }
-			war = no
 		}
 
 		allow = {
 			owns = 860
 			nationalism_n_imperialism = 1
+			war = no
 		}
 
 		effect = {

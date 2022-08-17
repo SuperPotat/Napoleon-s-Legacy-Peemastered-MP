@@ -15,9 +15,9 @@ political_decisions = {
 	
 		effect = {
 			set_global_flag = statue_of_liberty_has_been_built
-			any_pop = {
-				militancy = -0.5
-			}
+			#any_pop = {	#Would let you infinitely reduce militancy
+			#	militancy = -0.5
+			#}
 			FRA = {
 				country_event = { id=7771001 days=0 }
 			}

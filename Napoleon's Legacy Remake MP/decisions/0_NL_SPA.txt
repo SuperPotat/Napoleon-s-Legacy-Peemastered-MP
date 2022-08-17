@@ -11,10 +11,9 @@ political_decisions = {
 					OR = {
 						owned_by = THIS
 						owner = {
-							OR = {
-								vassal_of = THIS
-							}
+							vassal_of = THIS
 						}
+						NOT = { continent = europe }
 					}
 				}
 			}
@@ -25,6 +24,7 @@ political_decisions = {
 						owner = {
 							vassal_of = THIS
 						}
+						NOT = { continent = europe }
 					}
 				}
 			}
