@@ -46,11 +46,6 @@ country_event = {
 			militancy=-1
 			consciousness=-1
 		}
-		AST = {
-			all_core=  {
-				add_core = THIS
-			}
-		}
 		NZL = {
 			all_core=  {
 				add_core = THIS
