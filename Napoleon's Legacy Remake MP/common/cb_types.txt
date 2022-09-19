@@ -2013,20 +2013,6 @@ take_capital = {
 			not = { is_core = THIS }
 			is_colonial = no
 		}
-		OR = {
-			AND = {
-				civilized = yes
-				THIS = {
-					civilized = yes
-				}
-			}
-			AND = {
-				civilized = no
-				THIS = {
-					civilized = no
-				}
-			}
-		}
 		
 	}
 
