@@ -11,12 +11,8 @@
 			any_country = { limit = { ai = no } create_alliance = THIS }
 		}
 		option = { 
-			name = "I want to give military access to every country"
-			any_country = { military_access = THIS } 
-		}
-		option = { 
-			name = "I want to kick everyone who doesn't have military access to my country"
-			any_country = { limit = { ai = no NOT = { military_access = THIS } } country_event = 600422 } 
+			name = "I want to kick everyone who isn't allied to my country"
+			any_country = { limit = { ai = no NOT = { alliance_with = THIS } } country_event = 600422 } 
 		}
 	}
 	country_event = { 
@@ -27,3 +23,21 @@
 		immediate = { add_country_modifier = { name = bigchungus duration = 1 } } 	#intentionally invalid modifier to cause an instant crash to desktop
 		option = { name = "lol" } 
 	}
+country_event = {
+	id = 600423
+	title = "End of our occupations"
+	desc = "Let us celebrate"
+	picture = "native_force"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Sounds good!"
+		THIS = {
+			any_owned = {
+				change_controller = { THIS } #idk why the fuck this has brackets but sure, it works (allegedly)
+			}
+		}
+		THIS = { clr_country_flag = unsiege_this }
+	}
+}
