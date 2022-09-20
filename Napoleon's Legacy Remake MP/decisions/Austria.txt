@@ -93,12 +93,8 @@ political_decisions = {
 	the_grunderzeit = {
 		picture = the_grunderzeit
 		potential = {
+			has_country_flag = AUS2
 			owns = 619
-			NOT = { has_country_flag = the_grunderzeit }
-			OR = { 
-				tag = AUS
-				tag = KUK
-			}
 		}
 		allow = {
 			iron_railroad = 1
@@ -115,17 +111,12 @@ political_decisions = {
 				life_rating = 5
 			}
 			prestige = 10
-			set_country_flag = the_grunderzeit
+			clr_country_flag = AUS2
 		}
 	}
 	the_final_abolishment_of_serfdom = { #original VIP event by Hrast
 		potential = {
-			primary_culture = south_german
-			OR = { 
-				tag = AUS	
-				tag = KUK 
-			}
-			NOT = { has_country_flag = the_final_abolishment_of_serfdom }
+			has_country_flag = AUS3
 		}
 		allow = {
 			OR = {
@@ -167,7 +158,7 @@ political_decisions = {
 				ideology = conservative
 				value = 0.25
 			}
-			set_country_flag = the_final_abolishment_of_serfdom
+			clr_country_flag = AUS3
 		}
 	}
 	

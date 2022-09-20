@@ -52,8 +52,12 @@ country_event = {
 	
 	trigger = {
 		NOT = {
+			OR = {
 			poor_strata_life_needs = 0.8
 			poor_strata_everyday_needs = 0.2
+			}
+		}
+		NOT = {
 			government = democracy
 		}
 	}
@@ -170,9 +174,17 @@ country_event = {
 	
 	trigger = {
 		NOT = {
+			OR = {
 			poor_strata_life_needs = 0.9
 			has_country_modifier = immunity_from_influenza
+			}
+		}
+		
+		NOT = {
+			OR = {
 			has_country_modifier = pandemic_influenza
+			has_country_modifier = immunity_from_influenza
+			}
 		}
 	}
 	
