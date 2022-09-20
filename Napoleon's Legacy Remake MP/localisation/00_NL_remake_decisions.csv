@@ -126,12 +126,12 @@ form_peru_bolivia_confederation_desc;The time to unite the Andean peoples is upo
 RUS_choose_path_title;Choose Your Path;;;;;;;x
 RUS_choose_path_desc;We can choose between Finnish, Estonian, Latvian, Belarussian and Ukrainian or Tatar, Caucasian, Georgian, Mongolian, Aryan, Azerbaijani and Turkic.;;;;;;;x
 open_unsiege_system_title;Open the unsiege System;;;;;;;x				
-open_unsiege_system_desc;Gives you access to the Unsiege system;;;;;;;x				
-close_unsiege_system_title;Close the Unsiege System;;;;;;;x				
-close_unsiege_system_desc;Hides the Unsiege System;;;;;;;x				
+open_unsiege_system_desc;Gives you acces to all unsiege decisions;;;;;;;x				
+close_unsiege_system_title;Close the unsiege System;;;;;;;x				
+close_unsiege_system_desc;hides away all unsiege decisions;;;;;;;x				
 unsiege_this_nation_title;SELECT the Nations to be unsieged!;;;;;;;x				
-unsiege_this_nation_desc;Unally the player you want to unsiege and then press this decision. If you automatically re-allied them, it worked and the flag is set!;;;;;;;x			
+unsiege_this_nation_desc;unally the player you want to unsiege and then press this decision	if you aoutomatically re-allied him it worked and the flag is set!;;;;;;;x			
 unsiege_now_title;START the unsiege!;;;;;;;x				
-unsiege_now_desc;If you press this decision, every player nation with the unsiege flag gets fully unsieged;;;;;;;x
-clear_unsiege_flags_title;Clear all Unsiege flags;;;;;;;x				
-clear_unsiege_flags_desc;Removes all leftover Unsiege flags (safety);;;;;;;x
+unsiege_now_desc;If you pres this decision every player nation with the unsiege flag gets automatically fully unsieged;;;;;;;x				
+clear_unsiege_flags_title;Clear all unsiege flags;;;;;;;x				
+clear_unsiege_flags_desc;Removes all leftover unsiege flags (safety);;;;;;;x
