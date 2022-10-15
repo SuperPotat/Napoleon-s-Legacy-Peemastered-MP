@@ -22,4 +22,99 @@ political_decisions = {
 			country_event = 600421
 		}
 	}
+	open_unsiege_system = {
+        		potential = {
+ 			tag = LCT
+            		ai = no
+			NOT = { has_country_flag = unsiege_system_active }
+        		}
+       		allow = {
+			tag = LCT
+            		ai = no
+			NOT = { has_country_flag = unsiege_system_active }
+        		}
+ 		effect = {
+			THIS = { set_country_flag = unsiege_system_active }
+		}
+    	}
+	
+	close_unsiege_system = {
+        		potential = {
+ 			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+        		allow = {
+			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+       		}
+ 		effect = {
+			THIS = { clr_country_flag = unsiege_system_active }
+		}
+    	}
+
+	unsiege_this_nation = {
+        		potential = {
+ 			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+        		allow = {
+			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+ 		effect = {
+			any_country = {
+				limit = {
+					ai = no
+					NOT = {
+						alliance_with = THIS
+						has_country_flag = host_nation
+                    				}
+				}
+				set_country_flag = unsiege_this
+				create_alliance = LCT
+			}
+		}
+    	}
+
+	unsiege_now = {
+        		potential = {
+ 			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+        		allow = {
+			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+ 		effect = {
+			any_country = {
+				limit = {
+					ai = no
+					has_country_flag = unsiege_this
+				}
+				country_event = { id=600423 days=0 }
+			}
+		}
+    	}
+	
+	clear_unsiege_flags = {
+        		potential = {
+ 			tag = LCT
+           		 	ai = no
+			has_country_flag = unsiege_system_active
+        		}
+        		allow = {
+			tag = LCT
+            		ai = no
+			has_country_flag = unsiege_system_active
+        		}
+ 		effect = {
+			any_country = { clr_country_flag = unsiege_this }
+		}
+    	}
 }

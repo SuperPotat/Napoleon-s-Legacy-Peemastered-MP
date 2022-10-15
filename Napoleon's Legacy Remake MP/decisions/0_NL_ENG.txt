@@ -26,10 +26,16 @@ political_decisions = {
 		effect = { 	
 			IRE = { 
 				all_core = { 
-					add_core = THIS 
-					secede_province = THIS
+					add_core = THIS
 				} 
 			} 
+			#any_country = {
+			#	limit = {
+			#		tag = IRE 
+			#		ai = yes
+			#	}
+			#	ENG = { inherit = IRE }
+			#}
 			add_accepted_culture = irish
 			prestige = 15
 		}

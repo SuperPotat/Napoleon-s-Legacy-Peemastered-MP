@@ -2,7 +2,12 @@ political_decisions = {
 	finish_poland_partition = {
 		picture = duchy_of_warsaw
 		potential = {
-			has_country_flag = AUS	#Austria / Austria-Hungary
+			primary_culture = south_german
+			OR = {
+				tag = AUS
+				tag = KUK
+			}	
+			NOT = { has_country_flag = finish_poland_partition }
 			#has_country_flag=get_back_our_eastern_claim
 		}
 		allow = {
@@ -16,19 +21,17 @@ political_decisions = {
 		effect = {
 			RUS_710 = { add_core = THIS }
 			badboy =4
-			clr_country_flag=AUS
+			set_country_flag=finish_poland_partition
 		}
 	}
 	reintegrate_illiya = {
 		picture = decision_illyria_AUS
 		potential = {
-			neighbour = DLM
 			OR = {
 				tag = AUS
 				tag = KUK
 				tag = ITA
 			}
-			DLM = {exists = yes}
 			NOT={has_country_flag=reintegrate_illiya}
 		}
 		allow = {

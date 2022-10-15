@@ -1,5 +1,5 @@
 owner = GBR
-controller = GBR add_core = INO
+controller = GBR #add_core = INO
 add_core = JAV
 trade_goods = fruit
 life_rating = 30

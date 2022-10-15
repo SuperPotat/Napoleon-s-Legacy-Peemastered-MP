@@ -1,127 +1,127 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
-ARO;Aro;;;;Aro;;;;;;;;x
-ARO_ADJ;Aro;;;;Aro;;;;;;;;x
-ARO_conservative;Eze Aro Faction;;;;Facción Eze Aro;;;;;;;;x
-ARO_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-ARO_reactionary;Empire Faction;;;;Facción del Imperio;;;;;;;;x
-ARO_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-ARO_socialist;Socialist Faction;;;;Facción Socialista;;;;;;;;x
-ARO_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-ARO_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-ARO_proletarian_dictatorship;Biafra;;;;Biafra;;;;;;;;x
-ARO_proletarian_dictatorship_ADJ;Biafran;;;;Biafra;;;;;;;;x
-ARO_fascist_dictatorship;Biafra;;;;Biafra;;;;;;;;x
-ARO_fascist_dictatorship_ADJ;Biafran;;;;Biafra;;;;;;;;x
-ARO_presidential_dictatorship;Biafra;;;;Biafra;;;;;;;;x
-ARO_presidential_dictatorship_ADJ;Biafran;;;;Biafra;;;;;;;;x
-ARO_democracy;Biafra;;;;Biafra;;;;;;;;x
-ARO_democracy_ADJ;Biafran;;;;Biafra;;;;;;;;x
-ASH;Ashanti;;;;Ashanti;;;;;;;;x
-ASH_ADJ;Ashanti;;;;Ashanti;;;;;;;;x
-ASH_conservative;Royal Faction;;;;Facción Real;;;;;;;;x
-ASH_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-ASH_reactionary;Empire Faction;;;;Facción del Imperio;;;;;;;;x
-ASH_conservative_2;National Liberation Movement;;;;Movimiento de Liberación Nacional;;;;;;;;x
-ASH_liberal_2;United Gold Coast Convention;;;;Convención de la Costa Dorada Unida;;;;;;;;x
-ASH_reactionary_2;National Liberation Council;;;;Consejo de Liberación Nacional;;;;;;;;x
-ASH_anarcho_liberal;Progress Party;;;;Partido del Progreso;;;;;;;;x
-ASH_socialist;Ghana Congress Party;;;;Partido del Congreso de Ghana;;;;;;;;x
-ASH_communist;Convention People's Party;;;;Partido Popular de la Convención;;;;;;;;x
-ASH_fascist;Popular Front Party;;;;Partido Frente Popular;;;;;;;;x
-BEN;Benin;;;;Benín;;;;;;;;x
-BEN_ADJ;Beninese;;;;beninés;;;;;;;;x
-BEN_conservative;Oba's Faction;;;;Facción de Oba;;;;;;;;x
-BEN_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-BEN_reactionary;Military Faction;;;;Facción Militar;;;;;;;;x
-BEN_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-BEN_socialist;People's Faction;;;;Facción del Pueblo;;;;;;;;x
-BEN_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-BEN_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-CLA;Calabar;;;;Calabar;;;;;;;;x
-CLA_ADJ;Calabarean;;;;calabare?o;;;;;;;;x
-CLA_conservative;Duke Town Faction;;;;Facción de Duke Town;;;;;;;;x
-CLA_liberal;Creek Town Faction;;;;Facción de la ciudad de Creek;;;;;;;;x
-CLA_reactionary;Empire Faction;;;;Facción del Imperio;;;;;;;;x
-CLA_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-CLA_socialist;Socialist Faction;;;;Facción Socialista;;;;;;;;x
-CLA_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-CLA_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-DAH;Borgu;;;;Borgu;;;;;;;;x
-DAH_ADJ;Borgan;;;;Borgan;;;;;;;;x
-DAH_conservative;Ahosu Faction;;;;Facción Ahosu;;;;;;;;x
-DAH_liberal;Liberal Faction;;;;Facción Liberal;;;;;;;;x
-DAH_reactionary;Empire Faction;;;;Facción del Imperio;;;;;;;;x
-DAH_conservative_2;Progressive Union;;;;Unión Progresista;;;;;;;;x
-DAH_reactionary_2;Ethnic Group of the North;;;;Grupo Étnico del Norte;;;;;;;;x
-DAH_liberal_2;Republican Party;;;;Partido Republicano;;;;;;;;x
-DAH_anarcho_liberal;BMFD;;;;BMFD;;;;;;;;x
-DAH_socialist;African People's Bloc;;;;Bloque del Pueblo Africano;;;;;;;;x
-DAH_communist;People's Revolutionary Party;;;;Partido Revolucionario del Pueblo;;;;;;;;x
-DAH_fascist;Fascist Front;;;;Frente Fascista;;;;;;;;x
-GBU;Guinea-Bissau;;;;Guinea-Bisáu;;;;;;;;x
-GBU_absolute_monarchy;Gabu;;;;Gabu;;;;;;;;x
-GBU_absolute_monarchy_ADJ;Gabuan;;;;Gabuán;;;;;;;;x
-GBU_ADJ;Bissau-Guinean;;;;Bissau-Guineano;;;;;;;;x
-GBU_conservative;Mansaba Faction;;;;Facción Mansaba;;;;;;;;x
-GBU_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-GBU_reactionary;Empire Faction;;;;Facción del Imperio;;;;;;;;x
-GBU_conservative_2;Democratic Front;;;;Frente Democrático;;;;;;;;x
-GBU_liberal_2;Party for Social Renewal;;;;Partido por la Renovación Social;;;;;;;;x
-GBU_reactionary_2;Guinean Civic Forum;;;;Foro Cívico de Guinea;;;;;;;;x
-GBU_anarcho_liberal;Democratic Party of Progress;;;;Partido Democrático del Progreso;;;;;;;;x
-GBU_socialist;Struggle Front for Independence;;;;Frente de Lucha por la Independencia;;;;;;;;x
-GBU_communist;African Party of Independence;;;;Partido Africano de la Independencia;;;;;;;;x
-GBU_fascist;Bafata Movement;;;;Movimiento Bafata;;;;;;;;x
-JAL;Futa Jallon;;;;Futa Jallón;;;;;;;;x
-JAL_ADJ;Jallon;;;;Jallón;;;;;;;;x
-JAL_conservative;Almami's Faction;;;;Facción de Almami;;;;;;;;x
-JAL_liberal;Liberal Faction;;;;Facción Liberal;;;;;;;;x
-JAL_reactionary;The Jihadis;;;;los yihadistas;;;;;;;;x
-JAL_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-JAL_socialist;Socialist Faction;;;;Facción Socialista;;;;;;;;x
-JAL_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-JAL_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-KNG;Wattara;;;;Wattara;;;;;;;;x
-KNG_ADJ;Wattaran;;;;Wattaran;;;;;;;;x
-KNG_conservative;Fama's Faction;;;;Facción de Fama;;;;;;;;x
-KNG_liberal;Liberal Faction;;;;Facción Liberal;;;;;;;;x
-KNG_reactionary;Religious Faction;;;;Facción Religiosa;;;;;;;;x
-KNG_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-KNG_socialist;Socialist Faction;;;;Facción Socialista;;;;;;;;x
-KNG_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-KNG_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-OYO;Oyo;;;;Oyó;;;;;;;;x
-OYO_ADJ;Oyo;;;;Oyó;;;;;;;;x
-OYO_conservative;Alaafin's Faction;;;;Facción de Alaafin;;;;;;;;x
-OYO_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-OYO_reactionary;Military Faction;;;;Facción Militar;;;;;;;;x
-OYO_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-OYO_socialist;People's Faction;;;;facción del pueblo;;;;;;;;x
-OYO_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-OYO_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-WRI;Warri;;;;Warri;;;;;;;;x
-WRI_ADJ;Warri;;;;Warri;;;;;;;;x
-WRI_conservative;Olu's Faction;;;;Facción de Olu;;;;;;;;x
-WRI_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-WRI_reactionary;Military Faction;;;;Facción Militar;;;;;;;;x
-WRI_anarcho_liberal;Radical Faction;;;;Facción Radical;;;;;;;;x
-WRI_socialist;People's Faction;;;;facción del pueblo;;;;;;;;x
-WRI_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-WRI_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-WOL;Wolof;;;;Wolof;;;;;;;;x
-WOL_ADJ;Wolof;;;;Wolof;;;;;;;;x
-WOL_conservative;Buur-ba's Faction;;;;Facción de Buur-ba;;;;;;;;x
-WOL_liberal;Reform Faction;;;;Facción Reformista;;;;;;;;x
-WOL_reactionary;Religious Faction;;;;Facción Religiosa;;;;;;;;x
-WOL_anarcho_liberal;Freedom Faction;;;;Facción de la libertad;;;;;;;;x
-WOL_socialist;Socialist Faction;;;;Facción Socialista;;;;;;;;x
-WOL_communist;Communist Faction;;;;Facción Comunista;;;;;;;;x
-WOL_fascist;Fascist Faction;;;;Facción Fascista;;;;;;;;x
-KNO;Kano;;;;Kano;;;;;;;;x
-KNO_ADJ;Kanoese;;;;canoés;;;;;;;;x
-KWR;Kwararafa;;;;Kwararafa;;;;;;;;x
-KWR_ADJ;Kwararafese;;;;Kwararafese;;;;;;;;x
-IFE;Ife;;;;Ifé;;;;;;;;x
-IFE_ADJ;Ifese;;;;Ifese;;;;;;;;x
-form_IFE_title;Reestablish the Ife Empire!;;;;?Restablece el Imperio Ife!;;;;;;;;x
-form_IFE_desc;The Ife Empire is the cradle of Yoruban civilization. And while we're putting more effort into westernizing our nation, we need to remember to never forget our traditions. Long live the Ife Empire!;;;;El Imperio Ife es la cuna de la civilización yoruba. Y mientras nos esforzamos más en occidentalizar nuestra nación, debemos recordar que nunca debemos olvidar nuestras tradiciones. ¡Viva el Imperio Ife!;;;x
+ARO;Aro;;;;;;;x
+ARO_ADJ;Aro;;;;;;;x
+ARO_conservative;Eze Aro Faction;;;;;;;x
+ARO_liberal;Reform Faction;;;;;;;x
+ARO_reactionary;Empire Faction;;;;;;;x
+ARO_anarcho_liberal;Radical Faction;;;;;;;x
+ARO_socialist;Socialist Faction;;;;;;;x
+ARO_communist;Communist Faction;;;;;;;x
+ARO_fascist;Fascist Faction;;;;;;;x
+ARO_proletarian_dictatorship;Biafra;;;;;;;x
+ARO_proletarian_dictatorship_ADJ;Biafran;;;;;;;x
+ARO_fascist_dictatorship;Biafra;;;;;;;x
+ARO_fascist_dictatorship_ADJ;Biafran;;;;;;;x
+ARO_presidential_dictatorship;Biafra;;;;;;;x
+ARO_presidential_dictatorship_ADJ;Biafran;;;;;;;x
+ARO_democracy;Biafra;;;;;;;x
+ARO_democracy_ADJ;Biafran;;;;;;;x
+ASH;Ashanti;;;;;;;x
+ASH_ADJ;Ashanti;;;;;;;x
+ASH_conservative;Royal Faction;;;;;;;x
+ASH_liberal;Reform Faction;;;;;;;x
+ASH_reactionary;Empire Faction;;;;;;;x
+ASH_conservative_2;National Liberation Movement;;;;;;;x
+ASH_liberal_2;United Gold Coast Convention;;;;;;;x
+ASH_reactionary_2;National Liberation Council;;;;;;;x
+ASH_anarcho_liberal;Progress Party;;;;;;;x
+ASH_socialist;Ghana Congress Party;;;;;;;x
+ASH_communist;Convention People's Party;;;;;;;x
+ASH_fascist;Popular Front Party;;;;;;;x
+BEN;Benin;;;;;;;x
+BEN_ADJ;Beninese;;;;;;;x
+BEN_conservative;Oba's Faction;;;;;;;x
+BEN_liberal;Reform Faction;;;;;;;x
+BEN_reactionary;Military Faction;;;;;;;x
+BEN_anarcho_liberal;Radical Faction;;;;;;;x
+BEN_socialist;People's Faction;;;;;;;x
+BEN_communist;Communist Faction;;;;;;;x
+BEN_fascist;Fascist Faction;;;;;;;x
+CLA;Calabar;;;;;;;x
+CLA_ADJ;Calabarean;;;;;;;x
+CLA_conservative;Duke Town Faction;;;;;;;x
+CLA_liberal;Creek Town Faction;;;;;;;x
+CLA_reactionary;Empire Faction;;;;;;;x
+CLA_anarcho_liberal;Radical Faction;;;;;;;x
+CLA_socialist;Socialist Faction;;;;;;;x
+CLA_communist;Communist Faction;;;;;;;x
+CLA_fascist;Fascist Faction;;;;;;;x
+DAH;Borgu;;;;;;;x
+DAH_ADJ;Borgan;;;;;;;x
+DAH_conservative;Ahosu Faction;;;;;;;x
+DAH_liberal;Liberal Faction;;;;;;;x
+DAH_reactionary;Empire Faction;;;;;;;x
+DAH_conservative_2;Progressive Union;;;;;;;x
+DAH_reactionary_2;Ethnic Group of the North;;;;;;;x
+DAH_liberal_2;Republican Party;;;;;;;x
+DAH_anarcho_liberal;BMFD;;;;;;;x
+DAH_socialist;African People's Bloc;;;;;;;x
+DAH_communist;People's Revolutionary Party;;;;;;;x
+DAH_fascist;Fascist Front;;;;;;;x
+GBU;Guinea-Bissau;;;;;;;x
+GBU_absolute_monarchy;Gabu;;;;;;;x
+GBU_absolute_monarchy_ADJ;Gabuan;;;;;;;x
+GBU_ADJ;Bissau-Guinean;;;;;;;x
+GBU_conservative;Mansaba Faction;;;;;;;x
+GBU_liberal;Reform Faction;;;;;;;x
+GBU_reactionary;Empire Faction;;;;;;;x
+GBU_conservative_2;Democratic Front;;;;;;;x
+GBU_liberal_2;Party for Social Renewal;;;;;;;x
+GBU_reactionary_2;Guinean Civic Forum;;;;;;;x
+GBU_anarcho_liberal;Democratic Party of Progress;;;;;;;x
+GBU_socialist;Struggle Front for Independence;;;;;;;x
+GBU_communist;African Party of Independence;;;;;;;x
+GBU_fascist;Bafata Movement;;;;;;;x
+JAL;Futa Jallon;;;;;;;x
+JAL_ADJ;Jallon;;;;;;;x
+JAL_conservative;Almami's Faction;;;;;;;x
+JAL_liberal;Liberal Faction;;;;;;;x
+JAL_reactionary;The Jihadis;;;;;;;x
+JAL_anarcho_liberal;Radical Faction;;;;;;;x
+JAL_socialist;Socialist Faction;;;;;;;x
+JAL_communist;Communist Faction;;;;;;;x
+JAL_fascist;Fascist Faction;;;;;;;x
+KNG;Wattara;;;;;;;x
+KNG_ADJ;Wattaran;;;;;;;x
+KNG_conservative;Fama's Faction;;;;;;;x
+KNG_liberal;Liberal Faction;;;;;;;x
+KNG_reactionary;Religious Faction;;;;;;;x
+KNG_anarcho_liberal;Radical Faction;;;;;;;x
+KNG_socialist;Socialist Faction;;;;;;;x
+KNG_communist;Communist Faction;;;;;;;x
+KNG_fascist;Fascist Faction;;;;;;;x
+OYO;Oyo;;;;;;;x
+OYO_ADJ;Oyo;;;;;;;x
+OYO_conservative;Alaafin's Faction;;;;;;;x
+OYO_liberal;Reform Faction;;;;;;;x
+OYO_reactionary;Military Faction;;;;;;;x
+OYO_anarcho_liberal;Radical Faction;;;;;;;x
+OYO_socialist;People's Faction;;;;;;;x
+OYO_communist;Communist Faction;;;;;;;x
+OYO_fascist;Fascist Faction;;;;;;;x
+WRI;Warri;;;;;;;x
+WRI_ADJ;Warri;;;;;;;x
+WRI_conservative;Olu's Faction;;;;;;;x
+WRI_liberal;Reform Faction;;;;;;;x
+WRI_reactionary;Military Faction;;;;;;;x
+WRI_anarcho_liberal;Radical Faction;;;;;;;x
+WRI_socialist;People's Faction;;;;;;;x
+WRI_communist;Communist Faction;;;;;;;x
+WRI_fascist;Fascist Faction;;;;;;;x
+WOL;Wolof;;;;;;;x
+WOL_ADJ;Wolof;;;;;;;x
+WOL_conservative;Buur-ba's Faction;;;;;;;x
+WOL_liberal;Reform Faction;;;;;;;x
+WOL_reactionary;Religious Faction;;;;;;;x
+WOL_anarcho_liberal;Freedom Faction;;;;;;;x
+WOL_socialist;Socialist Faction;;;;;;;x
+WOL_communist;Communist Faction;;;;;;;x
+WOL_fascist;Fascist Faction;;;;;;;x
+KNO;Kano;;;;;;;x
+KNO_ADJ;Kanoese;;;;;;;x
+KWR;Kwararafa;;;;;;;x
+KWR_ADJ;Kwararafese;;;;;;;x
+IFE;Ife;;;;;;;x
+IFE_ADJ;Ifese;;;;;;;x
+form_IFE_title;Reestablish the Ife Empire!;;;;;;;x
+form_IFE_desc;The Ife Empire is the cradle of Yoruban civilization. And while we're putting more effort into westernizing our nation, we need to remember to never forget our traditions. Long live the Ife Empire!;;;;;;;x

@@ -62,7 +62,7 @@ province_event = {
 		year = 1848
 		or = {
 			province_id = 88			# Mariposa
-			province_id = 695			# K?nigsberg
+			province_id = 695			# Konigsberg
 		}
 		not = { trade_goods = precious_metal }
 	}
