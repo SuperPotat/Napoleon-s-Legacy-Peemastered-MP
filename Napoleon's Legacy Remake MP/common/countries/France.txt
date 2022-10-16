@@ -1,16 +1,18 @@
 #color = { 0 0 102 }				#non-absolute monarchies
 #color = { 13 42 86 }			#napoleonic blue?
-color = { 23 42 85 }				#navy blue or something
 #color = { 45  45  97 }			#GFM Argentine Confederation
+#color = { 23 42 85 }				#navy blue or something
 #absolute_monarchy = { 0 0 128 }		#navy
 #absolute_monarchy = { 0 0 102 }		#old NLR france color
-absolute_monarchy = { 20 20 100 }		#same as the culture
-presidential_dictatorship = { 17 30 108 } 	#royal
-#democracy = { 114 133 165 }			#pigeon
-democracy = { 115 135 190 } 			#AoE color
 #proletarian_dictatorship = { 229 0 39 }	#France's communist party color
+#democracy = { 114 133 165 }			#pigeon
+
+color = { 20 20 100 }				#same as the culture, monarchies
+presidential_dictatorship = { 17 30 108 } 	#royal
+democracy = { 115 135 190 } 			#AoE color
 proletarian_dictatorship = { 237 40 57 }	#Imperial Red
 fascist_dictatorship = { 12 0 45 }		#Took this color from anon's hfm submod, looks nice
+
 graphical_culture = FrenchGC
 
 party = {
