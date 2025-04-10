@@ -1,5 +1,0 @@
-owner = UPB
-controller = UPB
-add_core = UPB add_core = BRZ
-trade_goods = sulphur
-life_rating = 35
